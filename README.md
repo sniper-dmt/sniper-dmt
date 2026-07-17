@@ -83,3 +83,4 @@
 - 🐋 **Smart Money Detection** — выявление накопления крупными кошельками
 - 🌊 **Volatility Adaptation** — автоматическая корректировка агрессивности торговли
 
+Условия и цены. Вы можете ознакиться на сайте https://sniper-dmt.github.io/sniper-dmt
