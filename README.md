@@ -12,7 +12,7 @@
   
 # 🎯 SNIPER DMT
   
-### ⚡ Institutional-Grade Algorithmic Trading Bot ⚡
+### ⚡ Institutional-Grade AI Algorithmic Trading Bot ⚡
 
 **Автоматизированный снайпер-бот нового поколения для трейдинга на Bybit**  
 *Мгновенное исполнение • Анти-скам защита • Полная автономность*
